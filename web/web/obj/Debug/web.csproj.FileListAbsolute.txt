@@ -1,0 +1,11 @@
+C:\Users\jose\source\repos\web\web\bin\Debug\web.exe.config
+C:\Users\jose\source\repos\web\web\bin\Debug\web.exe
+C:\Users\jose\source\repos\web\web\bin\Debug\web.pdb
+C:\Users\jose\source\repos\web\web\obj\Debug\web.csproj.AssemblyReference.cache
+C:\Users\jose\source\repos\web\web\obj\Debug\web.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\source\repos\web\web\obj\Debug\web.Form1.resources
+C:\Users\jose\source\repos\web\web\obj\Debug\web.Properties.Resources.resources
+C:\Users\jose\source\repos\web\web\obj\Debug\web.csproj.GenerateResource.cache
+C:\Users\jose\source\repos\web\web\obj\Debug\web.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\web\web\obj\Debug\web.exe
+C:\Users\jose\source\repos\web\web\obj\Debug\web.pdb
